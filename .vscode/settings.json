@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "cstddef": "cpp",
+        "compare": "cpp"
+    },
+    "arduino.path": "D:\\Arduino_Legacy_Installation\\Arduino\\arduino.exe",
+    "C_Cpp.default.compilerPath": "d:\\MinGW_Installation\\mingw64\\bin\\g++.exe"
+}
